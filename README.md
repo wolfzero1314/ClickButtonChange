@@ -1,5 +1,5 @@
 # ClickButtonChange
-用react写的一个点击一个按钮改变另一个按钮文本的demo
+用react写的一个点击一个按钮改变另一个按钮文本的demo,还有简单的点赞实现。
 
 主要练习props和state，理解两者的区别和用法。
 
