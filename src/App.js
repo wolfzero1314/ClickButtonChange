@@ -63,7 +63,6 @@ class LikeButton extends Component{
     super();
     this.state={
       isLiked:false,
-      isChanged:false
     }
   }
 
